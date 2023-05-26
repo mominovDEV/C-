@@ -1,2 +1,3 @@
 # C-
-C programming language
+# two sum
+int* twoSum(int* nums, int numsSize, int target, int* returnSize)
